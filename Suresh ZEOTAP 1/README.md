@@ -14,7 +14,8 @@ The **Rule Engine with Abstract Syntax Tree (AST)** is designed to allow users t
 
 ## Project Structure
 
-rule-engine-with-ast/ │ ├── rule_engine.py # Core logic for the Rule Engine with AST parsing ├── config.py # Configuration for supported operators, functions, etc. ├── tests/ # Test cases for the Rule Engine ├── requirements.txt # Dependencies ├── README.md # Project documentation └── LICENSE # License information
+![image](https://github.com/user-attachments/assets/6fd7a255-01e6-4152-98d3-fc054286e772)
+
 
 
 ## Getting Started
